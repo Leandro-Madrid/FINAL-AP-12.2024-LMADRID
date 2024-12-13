@@ -66,3 +66,4 @@ El proceso de **gestión de riesgos** en un proyecto incluye varias fases clave:
 ### 9. Nombrar una herramienta de gestión/seguimiento de proyecto y explicar por qué la usarías.
 
 **Trello** sería la herramienta ideal, ya que permite gestionar las tareas de forma sencilla mediante tableros visuales. Puedes asignar tareas, establecer fechas de vencimiento y colaborar en tiempo real con el equipo, lo que facilita el seguimiento del progreso del proyecto.
+![Trello App ConcesioNet](https://github.com/user-attachments/assets/c0026b6c-3b24-4784-8b36-72cc6baf5e83)
